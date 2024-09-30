@@ -2,4 +2,4 @@ This is the official GitHub organization for the College Democrats at Central Mi
 
 ---
 
-Are you a new leadership member who needs access to this repository? Use the [cmichdemocrats-user](https://github.com/cmichdemocrats-user) account to add yourself to the organization.
+Are you a new leadership member who needs access to this organization? Use the [cmichdemocrats-user](https://github.com/cmichdemocrats-user) account to add yourself to the organization.
